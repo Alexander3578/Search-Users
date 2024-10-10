@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    width: 600px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 20px;
+}
